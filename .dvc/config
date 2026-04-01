@@ -1,5 +1,5 @@
 [core]
-    remote = remote_gdrive
+    remote = origin
 ['remote "remote_storage"']
     url = ../../dvc_remote
 ['remote "remote_gdrive"']
